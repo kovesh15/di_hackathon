@@ -48,6 +48,9 @@ img{
 .section-m1{
     margin:40px 0;
 }
+section#shadow-host-companion {
+    padding: 0rem;
+}
 
 button.normal{
     font-size: 14px;
